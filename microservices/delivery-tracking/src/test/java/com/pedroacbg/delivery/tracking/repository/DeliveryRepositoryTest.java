@@ -2,6 +2,7 @@ package com.pedroacbg.delivery.tracking.repository;
 
 import com.pedroacbg.delivery.tracking.domain.model.ContactPoint;
 import com.pedroacbg.delivery.tracking.domain.model.Delivery;
+import com.pedroacbg.delivery.tracking.domain.repository.DeliveryRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;

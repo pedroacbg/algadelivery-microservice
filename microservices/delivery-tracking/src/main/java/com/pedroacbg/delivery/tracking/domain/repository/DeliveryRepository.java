@@ -1,4 +1,4 @@
-package com.pedroacbg.delivery.tracking.repository;
+package com.pedroacbg.delivery.tracking.domain.repository;
 
 import com.pedroacbg.delivery.tracking.domain.model.Delivery;
 import org.springframework.data.jpa.repository.JpaRepository;
