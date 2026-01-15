@@ -1,4 +1,4 @@
-package com.pedroacbg.courier.management.repository;
+package com.pedroacbg.courier.management.domain.repository;
 
 import com.pedroacbg.courier.management.domain.model.Courier;
 import org.springframework.data.jpa.repository.JpaRepository;
